@@ -1,19 +1,15 @@
-# Awesome List Template
+# MaRDA's Very Own Awesome List
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
+This is a public Awesome List of MaRDA related things.  It has
 CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and
 [awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the
 beginning.
 
-## Usage
+## Contributing
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. run a find & replace of `YOUR_GITHUB_USER/YOUR_REPO` with your details
-3. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image.
+Contributions welcome! Make an PR and put your resources in a branch.  Someone will review and merge.  We don't really know the process, yet because we just made it during the break on the last day of MaRDA2025 but we'll work it out!
+
+ToDo: 
 4. choose a CI template
    - GitHub Action: move config folder from `repo-root/ci/.github/` to
      `repo-root/.github`
@@ -22,9 +18,3 @@ beginning.
    - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the
      `repo-root/.gitlab-ci.yml`
 5. run a find & replace `readme-template.md` to `readme.md` in the CI you chose
-5. delete this file
-6. rename `readme-template.md` file to `readme.md`
-
-## Contributing
-
-Contributions welcome!
