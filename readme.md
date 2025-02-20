@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/marda-alliance/awesome_list/actions/workflows/lint.yaml/badge.svg)](https://github.com/marda-alliance/awesome-list/actions/workflows/lint.yaml)
+# MaRDA's Awesome List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/marda-alliance/awesome_list/actions/workflows/lint.yaml/badge.svg)](https://github.com/marda-alliance/awesome-list/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
