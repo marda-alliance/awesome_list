@@ -8,14 +8,6 @@
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
-
-<!-- image -->
-
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a>
-
 <!-- description -->
 
 Community curated Awesome List for Materials Data from your friends at MaRDA!
