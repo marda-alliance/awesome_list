@@ -63,3 +63,5 @@ Community curated Awesome List for Materials Data from your friends at MaRDA!
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories. [![Github Stars](https://img.shields.io/github/stars/tilde-lab/tilde?style=social)](https://github.com/tilde-lab/tilde)
 - [xtal2png](https://github.com/sparks-baird/xtal2png) - **Python** package for invertibly representing crystal structures as PNG images for screening state-of-the-art image-processing generative models. [![Github Stars](https://img.shields.io/github/stars/sparks-baird/xtal2png?style=social)](https://github.com/sparks-baird/xtal2png)
 
+
+- [MatterSeek](https://www.yuyaomatterseek.net/) - Proprietary web platform from Yuyao Technology for materials R&D, with company-described forward property prediction and inverse design capabilities.
